@@ -1,11 +1,4 @@
-﻿/*************************************************************
-Nama file	: DemoKomentar.cs
-Deskripsi	: Mendemontrasikan penggunaan komentar pada C#
-Dibuat Oleh	: Muhammad Sapuan
-Tanggal		: 16/08/2023
-**************************************************************/
-
-// Menggunakan namespace System
+﻿// Menggunakan namespace System
 using System;
 
 // Membuat Kelas
