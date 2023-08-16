@@ -1,0 +1,15 @@
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\bin\Debug\net6.0\DemoKomentar.exe
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\bin\Debug\net6.0\DemoKomentar.deps.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\bin\Debug\net6.0\DemoKomentar.runtimeconfig.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\bin\Debug\net6.0\DemoKomentar.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\bin\Debug\net6.0\DemoKomentar.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\DemoKomentar.csproj.AssemblyReference.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\DemoKomentar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\DemoKomentar.AssemblyInfoInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\DemoKomentar.AssemblyInfo.cs
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\DemoKomentar.csproj.CoreCompileInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\DemoKomentar.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\refint\DemoKomentar.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\DemoKomentar.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\DemoKomentar.genruntimeconfig.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\DemoKomentar\DemoKomentar\obj\Debug\net6.0\ref\DemoKomentar.dll
