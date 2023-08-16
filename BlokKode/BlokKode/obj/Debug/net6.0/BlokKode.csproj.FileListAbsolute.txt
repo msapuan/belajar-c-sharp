@@ -1,0 +1,15 @@
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\bin\Debug\net6.0\BlokKode.exe
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\bin\Debug\net6.0\BlokKode.deps.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\bin\Debug\net6.0\BlokKode.runtimeconfig.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\bin\Debug\net6.0\BlokKode.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\bin\Debug\net6.0\BlokKode.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\BlokKode.csproj.AssemblyReference.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\BlokKode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\BlokKode.AssemblyInfoInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\BlokKode.AssemblyInfo.cs
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\BlokKode.csproj.CoreCompileInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\BlokKode.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\refint\BlokKode.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\BlokKode.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\BlokKode.genruntimeconfig.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\BlokKode\BlokKode\obj\Debug\net6.0\ref\BlokKode.dll
