@@ -1,0 +1,15 @@
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\bin\Debug\net6.0\Variablevar.exe
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\bin\Debug\net6.0\Variablevar.deps.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\bin\Debug\net6.0\Variablevar.runtimeconfig.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\bin\Debug\net6.0\Variablevar.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\bin\Debug\net6.0\Variablevar.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\Variablevar.csproj.AssemblyReference.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\Variablevar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\Variablevar.AssemblyInfoInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\Variablevar.AssemblyInfo.cs
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\Variablevar.csproj.CoreCompileInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\Variablevar.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\refint\Variablevar.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\Variablevar.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\Variablevar.genruntimeconfig.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variablevar\Variablevar\obj\Debug\net6.0\ref\Variablevar.dll
