@@ -1,0 +1,15 @@
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\bin\Debug\net6.0\PersegiPanjang.exe
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\bin\Debug\net6.0\PersegiPanjang.deps.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\bin\Debug\net6.0\PersegiPanjang.runtimeconfig.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\bin\Debug\net6.0\PersegiPanjang.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\bin\Debug\net6.0\PersegiPanjang.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\PersegiPanjang.csproj.AssemblyReference.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\PersegiPanjang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\PersegiPanjang.AssemblyInfoInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\PersegiPanjang.AssemblyInfo.cs
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\PersegiPanjang.csproj.CoreCompileInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\PersegiPanjang.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\refint\PersegiPanjang.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\PersegiPanjang.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\PersegiPanjang.genruntimeconfig.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\PersegiPanjang\PersegiPanjang\obj\Debug\net6.0\ref\PersegiPanjang.dll
