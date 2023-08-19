@@ -1,0 +1,15 @@
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\bin\Debug\net6.0\InputString.exe
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\bin\Debug\net6.0\InputString.deps.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\bin\Debug\net6.0\InputString.runtimeconfig.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\bin\Debug\net6.0\InputString.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\bin\Debug\net6.0\InputString.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\InputString.csproj.AssemblyReference.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\InputString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\InputString.AssemblyInfoInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\InputString.AssemblyInfo.cs
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\InputString.csproj.CoreCompileInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\InputString.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\refint\InputString.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\InputString.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\InputString.genruntimeconfig.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\InputString\InputString\obj\Debug\net6.0\ref\InputString.dll
