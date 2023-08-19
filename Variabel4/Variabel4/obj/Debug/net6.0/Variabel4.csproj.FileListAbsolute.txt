@@ -1,0 +1,15 @@
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\Variabel4.csproj.AssemblyReference.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\Variabel4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\Variabel4.AssemblyInfoInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\Variabel4.AssemblyInfo.cs
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\Variabel4.csproj.CoreCompileInputs.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\bin\Debug\net6.0\Variabel4.exe
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\bin\Debug\net6.0\Variabel4.deps.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\bin\Debug\net6.0\Variabel4.runtimeconfig.json
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\bin\Debug\net6.0\Variabel4.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\bin\Debug\net6.0\Variabel4.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\Variabel4.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\refint\Variabel4.dll
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\Variabel4.pdb
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\Variabel4.genruntimeconfig.cache
+C:\Users\newbie\Documents\DATAKU\PROJECTS\belajar-c-sharp\Variabel4\Variabel4\obj\Debug\net6.0\ref\Variabel4.dll
